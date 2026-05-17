@@ -1,0 +1,59 @@
+cd C:\OfficeAssetDetection_UsingYOLO
+.\yolovenv\Scripts\python.exe -m uvicorn backend.main:app --reload --port 8080
+
+My POC (Live Object Detection Dashboard) project with YOLO have following requirements.
+
+1. It should demonstrate:
+	Real-time camera detection
+	Object labels
+	Confidence score
+	Bounding boxes
+	Object counting
+	Screenshot capture
+	Event logging
+2. Demo Scenario: Use webcam to detect common objects:
+
+	person
+	laptop
+	mobile phone
+	bottle
+	chair
+	keyboard
+	mouse
+	book
+
+3. Example output:
+	Person detected: 96%
+	Laptop detected: 91%
+	Mobile phone detected: 88%
+
+4. Recommended POC Architecture
+
+Webcam
+   ↓
+YOLO Model
+   ↓
+Object Detection
+   ↓
+Draw Bounding Boxes
+   ↓
+Show Live Preview
+   ↓
+Save Detection Logs
+
+5. Tech Stack:
+
+Python
+OpenCV
+Ultralytics YOLO
+CSV / SQLite for logs
+FastAPI + React dashboard
+
+6. To ensure POC is at next level:
+	FastAPI backend
+	React frontend
+	Live video stream
+	Detection log table
+	Object count dashboard
+	Screenshot gallery
+   

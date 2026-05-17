@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Database
+*.db
+*.sqlite3
+
+# YOLO weights
+*.pt
+
+# OpenCV temp
+*.log
+
+# Frontend
+node_modules/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Screenshots/Videos
+screenshots/
+captures/
+videos/
+
+# Environment variables
+.env
+
+#Virtual env
+yolovenv/
