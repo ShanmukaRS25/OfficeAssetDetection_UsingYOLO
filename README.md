@@ -144,9 +144,28 @@ Dashboard opens at → **http://localhost:5173**
 
 ---
 
-## 🎯 Detected Object Classes
+## 🎯 Detected Object Classes & Output Detections
 
 `person` · `laptop` · `cell phone` · `bottle` · `chair` · `keyboard` · `mouse` · `book`
+<img width="568" height="396" alt="Book" src="https://github.com/user-attachments/assets/a4bc2d6a-556c-4b0b-b845-d8c8cb00aaf3" />
+<img width="225" height="480" alt="Bottle" src="https://github.com/user-attachments/assets/a6181fa1-b098-4852-8150-b0d11c88be74" />
+<img width="640" height="480" alt="cell phone" src="https://github.com/user-attachments/assets/ac5b4a11-db0a-47db-a4e9-3d1993c3b3e0" />
+<img width="386" height="480" alt="Chair" src="https://github.com/user-attachments/assets/e09a1d4a-dd32-4272-b5a5-291b05bb91f1" />
+<img width="640" height="376" alt="Keyboard" src="https://github.com/user-attachments/assets/75971916-6bfd-4a7f-8425-eb12b73f7cb7" />
+<img width="640" height="370" alt="Laptop" src="https://github.com/user-attachments/assets/01c38b93-aa6c-4198-b15a-f9d4e1daac8a" />
+<img width="640" height="480" alt="Mouse" src="https://github.com/user-attachments/assets/b4dc82b4-6fb9-40ca-ac27-07716779340b" />
+<img width="640" height="480" alt="remote" src="https://github.com/user-attachments/assets/aeadb344-6288-4958-bce7-6f84799ea60d" />
+
+---
+
+## Dashboard & Log 
+<img width="1528" height="682" alt="Dashboard" src="https://github.com/user-attachments/assets/c45ab9bd-5d7b-4c50-b1af-2d229001a4a5" />
+<img width="1536" height="698" alt="Log" src="https://github.com/user-attachments/assets/7a42523c-c80c-49be-9bed-4e0f88c38097" />
+
+
+
+
+
 
 ---
 
