@@ -5,7 +5,7 @@ Pillow==10.4.0                # Image save / screenshot handling
 
 fastapi==0.115.6              # Async REST + WebSocket server
 uvicorn[standard]==0.32.1     # ASGI server with auto-reload support
-python-multipart==0.0.12      # Form / file upload handling
+python-multipart==0.0.31      # Form / file upload handling
 
 aiosqlite==0.20.0             # Async SQLite driver (detection logs)
 
